@@ -1,11 +1,11 @@
-Hubot Lunch Today
+Hubot Maxim
 ================
 
-Very simple Hubot script for suggesting lunch menu.
+Very simple Hubot script for saying maxim.
 
 It's only for Korean at now.
 
 ```
-hubot lunch
-hubot lunch lunchNumber
+hubot maxim
+hubot maxim maximNumber
 ```

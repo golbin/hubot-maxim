@@ -5,7 +5,7 @@ module.exports = function(grunt) {
     },
     jshint: {
       libs: ['libs/*.js'],
-      main: ['hubot-lunch-today.js'],
+      main: ['hubot-maxim.js'],
     }
   });
 
