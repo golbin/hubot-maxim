@@ -1,6 +1,6 @@
 {
   "name": "hubot-maxim",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hubot Maxim Script",
   "main": "hubot-maxim.js",
   "scripts": {
