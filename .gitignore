@@ -1,0 +1,6 @@
+# npm modules
+node_modules
+
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
