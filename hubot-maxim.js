@@ -35,7 +35,7 @@ module.exports = function(robot) {
     }
 
     if (message) {      
-      message = message.author + ' - ' + message.message;
+      message = message.message + ' - ' + message.author;
     } else {
       message = '해당하는 번호의 명언/속담이 없습니다.';      
     }
